@@ -1,8 +1,10 @@
 # Meus times para Pokemon competitivo
 
-# VGC
+### VGC
 
-### Tier F (2026-03)
-- Articuno Sweeper - [link]()
-- Hyper ofense - [link]()
-- Ofense + Stall - [link]()
+#### Tier F (2026-03)
+- Articuno Sweeper - [link](./times/articuno.md)
+- Hyper ofense - [link](./times/hyperofense.md)
+- Ofense + Stall - [link](./times/ofenseplusstal.md)
+
+---
