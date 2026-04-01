@@ -1,6 +1,6 @@
 # Articuno Sweeper
 
-'''
+```
 Ninetales-Alola @ Light Clay  
 Ability: Snow Warning  
 Level: 50  
@@ -71,6 +71,4 @@ IVs: 0 Atk
 - Icy Wind  
 - Moonblast  
 - Shadow Ball  
-
-
-'''
+```
