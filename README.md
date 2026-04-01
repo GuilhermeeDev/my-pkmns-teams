@@ -3,7 +3,7 @@
 ### VGC
 
 #### Tier F (2026-03)
-- Articuno Sweeper - [link](./times/articuno.md)
+- Articuno Sweeper - [link](./times/articunosweeper.md)
 - Hyper ofense - [link](./times/hyperofense.md)
 - Ofense + Stall - [link](./times/ofenseplusstal.md)
 
