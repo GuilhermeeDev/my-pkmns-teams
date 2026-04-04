@@ -7,4 +7,6 @@
 - Hyper ofense - [link](./times/hyperofense.md)
 - Ofense + Stall - [link](./times/ofenseplusstal.md)
 
+#### Tier I (2026-04)
+- Miraidon + Chi-Yu - [link](./times/miraidonChiyu.md)
 ---
