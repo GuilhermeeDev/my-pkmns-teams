@@ -3,7 +3,7 @@ Miraidon @ Choice Specs
 Ability: Hadron Engine  
 Level: 50  
 Tera Type: Steel  
-EVs: 164 HP / 68 Def / 140 SpA / 12 SpD / 124 Spe  
+EVs: 68 Def / 252 SpA / 12 SpD / 172 Spe  
 Modest Nature  
 - Electro Drift  
 - Draco Meteor  
