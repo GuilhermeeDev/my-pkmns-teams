@@ -3,12 +3,12 @@
 ### VGC
 
 #### Tier F (2026-03)
-- Articuno Sweeper - [link](./times/articunosweeper.md)
-- Hyper ofense - [link](./times/hyperofense.md)
-- Ofense + Stall - [link](./times/ofenseplusstal.md)
+- Articuno Sweeper - [link](https://pokepast.es/7a9f66f21860c9bf)
+- Hyper ofense - [link](https://pokepast.es/04a0b7e20cc9d083)
+- Ofense + Stall - [link](https://pokepast.es/6a3ec3d0756e22af)
 
 #### Tier I (2026-04)
-- Miraidon + Chi-Yu - [link](./times/miraidonChiyu.md)
+- Miraidon + Chi-Yu - [link](https://pokepast.es/f7e29c7e682e4579)
 
 ### Pokemon Champions
 
