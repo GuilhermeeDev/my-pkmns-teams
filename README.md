@@ -9,4 +9,10 @@
 
 #### Tier I (2026-04)
 - Miraidon + Chi-Yu - [link](./times/miraidonChiyu.md)
+
+### Pokemon Champions
+
+#### Reg M-A
+- M-Froslass + Beartic - [link](https://pokepast.es/93e28d412cd9508f)
+
 ---
